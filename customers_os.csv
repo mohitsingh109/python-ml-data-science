@@ -1,0 +1,6 @@
+Customer_ID,Name,Email,Membership_Tier
+1,Alice,alice@example.com,Premium
+2,Bob,bob@example.com,Standard
+3,Charlie,charlie@example.com,Premium
+4,Diana,diana@example.com,Standard
+5,Eve,eve@example.com,Premium

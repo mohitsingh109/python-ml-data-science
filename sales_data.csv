@@ -1,0 +1,13 @@
+Store,Product,Month,Sales,Profit
+Store_A,Electronics,January,10000,1500
+Store_A,Clothing,January,7000,800
+Store_A,Electronics,February,12000,2000
+Store_A,Clothing,February,6000,700
+Store_B,Electronics,January,15000,2500
+Store_B,Clothing,January,9000,1200
+Store_B,Electronics,February,16000,3000
+Store_B,Clothing,February,11000,1500
+Store_C,Electronics,January,8000,1000
+Store_C,Clothing,January,6000,900
+Store_C,Electronics,February,9000,1200
+Store_C,Clothing,February,5000,600

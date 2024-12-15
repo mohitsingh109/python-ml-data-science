@@ -1,0 +1,13 @@
+,Store,Product,Month,Sales,Profit,Store_Total_Sales,Percentage_Contribution
+0,Store_A,Electronics,January,10000,1500,35000,28.57142857142857
+1,Store_A,Clothing,January,7000,800,35000,20.0
+2,Store_A,Electronics,February,12000,2000,35000,34.285714285714285
+3,Store_A,Clothing,February,6000,700,35000,17.142857142857142
+4,Store_B,Electronics,January,15000,2500,51000,29.411764705882355
+5,Store_B,Clothing,January,9000,1200,51000,17.647058823529413
+6,Store_B,Electronics,February,16000,3000,51000,31.372549019607842
+7,Store_B,Clothing,February,11000,1500,51000,21.568627450980394
+8,Store_C,Electronics,January,8000,1000,28000,28.57142857142857
+9,Store_C,Clothing,January,6000,900,28000,21.428571428571427
+10,Store_C,Electronics,February,9000,1200,28000,32.142857142857146
+11,Store_C,Clothing,February,5000,600,28000,17.857142857142858

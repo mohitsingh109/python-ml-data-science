@@ -1,0 +1,13 @@
+Store,Month,Product,Store_Total_Sales,Percentage_Contribution
+Store_A,January,Electronics,35000,28.57142857142857
+Store_A,January,Clothing,35000,20.0
+Store_A,February,Electronics,35000,34.285714285714285
+Store_A,February,Clothing,35000,17.142857142857142
+Store_B,January,Electronics,51000,29.411764705882355
+Store_B,January,Clothing,51000,17.647058823529413
+Store_B,February,Electronics,51000,31.372549019607842
+Store_B,February,Clothing,51000,21.568627450980394
+Store_C,January,Electronics,28000,28.57142857142857
+Store_C,January,Clothing,28000,21.428571428571427
+Store_C,February,Electronics,28000,32.142857142857146
+Store_C,February,Clothing,28000,17.857142857142858
